@@ -1,0 +1,9 @@
+name: ric
+version: 1.0
+main: me.babakhhaha.ricbybbh.Main
+api-version: 1.19
+authors: []
+description: Modified version of Random Item Challenge (or just RIC)!
+commands:
+  ric:
+    description: Used to toggle the Random Item Challenge on / off
