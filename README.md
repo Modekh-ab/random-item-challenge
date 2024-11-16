@@ -6,7 +6,7 @@
 ## 🌃 Abstract
 
 - Native & tested **Minecraft version**: `1.19`
-- This mod is a modified version of popular Random Item Challenge (or just RIC)
+- Plugin is a modified version of popular Random Item Challenge (or just RIC)
 - Some disadvantages have been eliminated, and several possibilities have been added (such as providing almost all Minecraft items)
 
 ## 💭 Commands
