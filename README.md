@@ -1,7 +1,7 @@
 # 🎲 Random Item Challenge Upgraded
 > also `RIC by BBH`, where **BBH** is `Modekh`'s old username _(from November 2022)_
 
-## 🚰 [SpiggotMC](https://www.spigotmc.org/resources/random-item-challenge-by-bbh.105633/)
+## 🚰 [SpigotMC](https://www.spigotmc.org/resources/random-item-challenge-by-bbh.105633/)
 
 ## 🌃 Abstract
 
